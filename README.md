@@ -1,6 +1,6 @@
 ## Hydroponics Email Bot
 
-This is a Python bot that runs on my Raspberry Pi, sending me daily update emails on the water's pH level measured in my DIY hydroponics tower.
+This is a Python bot that runs on my Raspberry Pi, sending me daily update emails on the water's pH level measured in my DIY hydroponics tower. My code is hydroponicsEmailBot.py, while grove_ph_sensor.py is code provided by the manufacturer.
 
 ## Additional Information
 
