@@ -8,3 +8,5 @@ This is a Python bot that runs on my Raspberry Pi, sending me daily update email
 * Constructed out of PVC, and I used a heat gun to bend and create the holes the plant pots sit in.
 * Uses a 5 gallon bucket resoivor, which pumps up the tower and rains down nutrient-rich water onto the plant's roots.
 * Implements the GrovePi add-on & Grove pH sensor with my Raspberry Pi to recieve data and send me update emails daily.
+
+![Screenshot](hydrotower.jpg)
