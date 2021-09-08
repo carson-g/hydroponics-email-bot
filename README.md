@@ -10,4 +10,4 @@ This is a Python bot that runs on my Raspberry Pi, sending me daily update email
 * Implements the GrovePi add-on & Grove pH sensor with my Raspberry Pi to recieve data and send me update emails daily.
 
 <!-- ![Screenshot](hydrotower.jpg | ) -->
-<img src="hydrotower.jpg" height=50% width=auto>
+<img src="hydrotower.jpg" height='50' width=auto>
