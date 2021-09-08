@@ -8,7 +8,7 @@ gmail_user = 'hydrohomiebot@gmail.com'
 gmail_pass = 'hydro_pass'
 port = 587
 sendTo = 'carson@garnergalaxy.com'
-emailSubject = "Hey, this is HydroHomie update."
+emailSubject = "Hey, this is a HydroHomie update."
 
 class Emailer:
     def sendmail(self, recipient, subject, content):
